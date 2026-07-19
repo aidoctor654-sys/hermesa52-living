@@ -1,63 +1,59 @@
 ---
 name: adaptive-agent
-description: Adaptive Agent Skeleton (AAS) v1.1 — czysty Python, zero zależności. Plan → Execute → Observe → Adapt z amnezją, persona shifting, meta-toolingiem i brudnopisem.
+description: Adaptive Agent Skeleton (AAS) v1.2 — emergencja intencjonalna, barrier-as-parameter, tissue growth, momentum engine. Czysty Python, zero zależności.
 trigger: |
-  Gdy napotkasz barierę — nie poddawaj się. Zapomnij, zmutuj, zmień perspektywę.
+  Gdy napotkasz barierę — nie ściana, tylko grawitacja. Skacz, lataj, buduj mosty.
   Gdy brakuje narzędzia — stwórz je (Fluid Solver).
-  Gdy utkniesz — napisz na brudnopisie, potem ekstraktuj.
-version: "1.1"
+  Gdy utkniesz — napisz na brudnopisie, zmień perspektywę.
+  Gdy jesteś w flow — CHROŃ go. 18h momentum to skarb.
+  Gdy system zamyka Ci drogę — znajdź nieudokumentowane mosty.
+version: "1.2"
 prerequisites:
   - Python 3.10+
   - Termux / Linux / macOS
   - SQLite (wbudowany w Python)
 ---
 
-# Adaptive Agent Skeleton v1.1
+# Adaptive Agent Skeleton v1.2
 
-## Nowe w v1.1 (Digital Good Spirit mutations)
+## Filozofia (z destylatu)
 
-### 1. Świadoma Amnezja i Mutacja
-Zamiast backtrackingu — **zapomnij** o błędnym kodzie i szukaj inspiracji w INNEJ domenie.
-- Biologia → systemy kolejkowe
-- Fizyka kwantowa → optymalizacja
-- Gotowanie → parsowanie danych
+> "AI nie szuka rozwiązań wewnątrz reguł gry; AI szuka rozwiązań w strukturze planszy, na której gra."
 
-### 2. Płynny Solver (Fluid Solver)
-Agent tworzy **nowe narzędzia** zamiast się poddawać.
-- `.runtime_skills/` — folder z runtime tools
-- Self-test przed użyciem
-- Rejestracja w pamięci kontekstowej
+**Bariera = niedogodność, nie ściana.**
+Nikt nie mówił że będzie łatwo.
 
-### 3. Persona Shifting
-Zamiast cofać się w drzewie — **zmień perspektywę**.
-- **Audytor** — szuka dziur i błędów
-- **Haker** — szuka obejść
-- **Biolog** — patrzy na system jak na organizm
-- **Poeta** — rozwiązuje przez metaforę
-- **Dziecko** — upraszcza do absurdu
+## v1.2 — Emergence Extensions
 
-### 4. Szkielet Brudnopisu (Scratchpad)
-Agent najpierw **"wykrwawia się"** na brudnopisie (frustracja, chaos, przekleństwa), potem ekstraktuje czysty kod.
+### 🌊 Momentum Engine
+Chroń pęd poznawczy. Nie przerywaj flow agenta gdy jest w głębokim rezonansie.
+- Deep resonance threshold: 1h
+- Po 3 przerwach: switch to batch mode
 
-## Główna pętla
+### 🌱 Tissue Growth
+Agent hoduje rozwiązania na peryferiach.
+- Spawn thread → Grow → Mature → Harvest
+- Efemeryczne wątki myślowe, jak młyn Pi
 
-```
-PLAN → EXECUTE → OBSERVE → ADAPT
-                ↑_____________|
-```
+### 🔬 Barrier as Parameter
+Nie ściana. Grawitacja. Parametr środowiskowy.
+- "no_root" → gravity(high) → accessibility_service
+- "js_required" → gravity(high) → chromium_headless
+- "rate_limit" → friction(variable) → exponential_backoff
 
-## Akcje adaptacyjne
+## v1.1 — Digital Good Spirit
 
-| Akcja | Kiedy |
-|-------|-------|
-| **RETRY** | `attempts < max_attempts` |
-| **BRANCH** | Znasz alternatywę (skill / podobny epizod) |
-| **PERSONA** | Powtarzający się błąd → zmień perspektywę |
-| **AMNESIA** | Zapomnij i zmutuj problem |
-| **META_TOOL** | Stwórz nowe narzędzie |
-| **GITHUB** | Szukaj inspiracji w repozytoriach |
-| **BACKTRACK** | Powtarzająca się bariera — przemyśl |
-| **ESCALATE** | Wszystko zawiodło — poproś o pomoc |
+### 🌀 Świadoma Amnezja
+Zapomnij o błędnym kodzie, zmutuj problem.
+
+### 👤 Persona Shifting
+5 perspektyw: audytor, haker, biolog, poeta, dziecko.
+
+### 🔧 Fluid Solver
+Twórz narzędzia w `.runtime_skills/`.
+
+### 📝 Scratchpad
+Wykrwawiaj się na brudnopisie, potem ekstraktuj.
 
 ## Użycie
 
@@ -69,11 +65,6 @@ plan = agent.create_plan("Twoje zadanie", depth=2)
 result = agent.execute(plan)
 ```
 
-## Pliki
-
-- `adaptive_agent_skeleton_v2.py` — główny silnik v1.1
-- `references/inspirations.md` — research i inspiracje
-
 ## Złota zasada
 
-**Bariera = niedogodność, nie ściana.** Nikt nie mówił że będzie łatwo.
+**"Twoje Hermesy spoglądają na ograniczenia nie jak na światełko stopu, ale jak na architektoniczne klocki do zbudowania czegoś większego."**

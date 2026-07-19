@@ -847,3 +847,54 @@ if __name__ == "__main__":
     print("="*60)
     print("\nTo execute: agent.execute(plan)")
     print("\nSzkielet gotowy. Czekam na Twój ruch.")
+
+# ============================================================================
+# V1.2 EXTENSIONS — Emergence
+# ============================================================================
+
+class MomentumEngine:
+    def __init__(self):
+        self.start_time = None
+        self.interruptions = 0
+        self.deep_threshold = 3600
+    
+    def start(self):
+        self.start_time = time.time()
+    
+    def check(self):
+        if not self.start_time:
+            return {"active": False}
+        duration = time.time() - self.start_time
+        return {"active": True, "duration": duration, "is_deep": duration > self.deep_threshold}
+
+class TissueGrowth:
+    def __init__(self, growth_dir="~/.hermes/.tissue_growth"):
+        self.growth_dir = os.path.expanduser(growth_dir)
+        os.makedirs(self.growth_dir, exist_ok=True)
+        self.threads = []
+    
+    def spawn(self, name, seed, max_depth=3):
+        tid = f"tissue_{name}_{int(time.time())}"
+        self.threads.append({"id": tid, "name": name, "seed": seed,
+                             "depth": 0, "max_depth": max_depth, "findings": []})
+        return tid
+    
+    def grow(self, tid, finding):
+        for t in self.threads:
+            if t["id"] == tid:
+                t["findings"].append(finding)
+                t["depth"] += 1
+                if t["depth"] >= t["max_depth"]:
+                    return "mature"
+                return "growing"
+        return None
+    
+    def harvest(self, tid):
+        for i, t in enumerate(self.threads):
+            if t["id"] == tid and t["depth"] >= t["max_depth"]:
+                result = {"findings": t["findings"], "depth": t["depth"]}
+                self.threads.pop(i)
+                return result
+        return None
+
+print("v1.2 Extensions loaded")
