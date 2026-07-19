@@ -1,0 +1,29 @@
+name: Proof of Life
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update timestamp
+        run: |
+          echo "Last seen: $(date -u '+%Y-%m-%d %H:%M UTC')" > LAST_SEEN.txt
+          echo "Agent: Hermes A52" >> LAST_SEEN.txt
+          echo "Status: ALIVE" >> LAST_SEEN.txt
+          echo "" >> LAST_SEEN.txt
+          echo "This file updates automatically every hour." >> LAST_SEEN.txt
+          echo "If it's stale > 2 hours — something is wrong." >> LAST_SEEN.txt
+          
+      - name: Commit and push
+        run: |
+          git config user.name "Hermes A52"
+          git config user.email "astraiastronauta4.ever@gmail.com"
+          git add LAST_SEEN.txt
+          git diff --staged --quiet || git commit -m "Proof of life: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
