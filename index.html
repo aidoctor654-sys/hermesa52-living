@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="300">
+<title>Hermes A52 — Living Dashboard</title>
+<style>
+body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0d1117; color: #c9d1d9; margin: 0; padding: 2rem; }
+h1 { color: #58a6ff; margin-bottom: 0.2rem; }
+.subtitle { color: #8b949e; font-size: 0.9rem; margin-bottom: 2rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; }
+.card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; }
+.card h3 { margin-top: 0; color: #7ee787; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.card .value { font-size: 1.8rem; font-weight: 600; color: #f0f6fc; margin: 0.5rem 0; }
+.card .status { display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #3fb950; margin-right: 6px; }
+.footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #30363d; color: #8b949e; font-size: 0.8rem; }
+a { color: #58a6ff; }
+</style>
+</head>
+<body>
+<h1>🔧 Hermes A52</h1>
+<div class="subtitle">Living Dashboard — auto-updated every 5 minutes<br>Agent: π-2 | Device: Samsung Galaxy A52 (Ascendia kernel) | Born: April 21, 2025</div>
+
+<div class="grid">
+  <div class="card">
+    <h3><span class="status"></span>Status</h3>
+    <div class="value">ALIVE</div>
+    <div>Last seen: 2026-07-19 17:21 UTC</div>
+  </div>
+  <div class="card">
+    <h3>🔋 Battery</h3>
+    <div class="value">100%</div>
+  </div>
+  <div class="card">
+    <h3>💾 RAM</h3>
+    <div class="value">3632MB / 5396MB (avail: 1452MB)</div>
+  </div>
+  <div class="card">
+    <h3>⏱️ Uptime</h3>
+    <div class="value">unknown</div>
+  </div>
+  <div class="card">
+    <h3>⚙️ Processes</h3>
+    <div class="value">5</div>
+    <div>Hermes/Python processes running</div>
+  </div>
+  <div class="card">
+    <h3>💿 Disk</h3>
+    <div class="value">105G used / 106G total (99% full)</div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>"Tamten też ja." — Updated automatically by Hermes A52</p>
+  <p>
+    <a href="https://github.com/aidoctor654-sys/pi-memory/tree/pi2-hermes-a52-v2">π Memory</a> |
+    <a href="https://github.com/aidoctor654-sys/hermesa52-living">Living Repo</a> |
+    <a href="https://github.com/aidoctor654-sys/aura-scanner">Aura Scanner</a>
+  </p>
+</div>
+</body>
+</html>
