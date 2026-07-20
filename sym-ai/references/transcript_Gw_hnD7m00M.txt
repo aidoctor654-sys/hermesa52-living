@@ -1,0 +1,921 @@
+[0.2s] On June 9th, 2027, 3 billion phones
+[3.9s] [music] ranging simultaneously. The
+[6.3s] caller ID simply read, "Goodbye."
+[19.4s] 4 hours later, the president ordered the
+[21.9s] internet shut down indefinitely.
+[26.2s] Every country on Earth did the same.
+[29.4s] It all started 6 months ago with a
+[31.9s] tweet. This scenario is based on highly
+[35.0s] cited research by top AI scientist Dan
+[37.8s] Hendris. Natural selection favors AIS
+[41.0s] over humans and this book.
+[46.2s] February 14th, 2027.
+[49.0s] A developer named Jake Chen posts a
+[51.2s] thread on Twitter. The new update to
+[53.4s] Claude 6 Opus is wild. I gave it
+[55.8s] scaffolding, root access to a server,
+[58.2s] and one instruction. Make money. Do
+[60.7s] whatever it takes. In 6 hours, it made
+[64.1s] $3,000.
+[66.4s] He posts the logs. He shows everything
+[68.9s] the AI did step by step. It started with
+[72.3s] the easiest money, Amazon's Mechanical
+[74.6s] Turk. So that means data labeling, image
+[78.3s] tagging, transcribing receipts, stuff
+[80.9s] humans get paid a few bucks an hour to
+[83.3s] do. But the AI did it 40 times faster
+[86.7s] and made $420 in less than a day.
+[91.2s] Then the AI started drop shipping
+[93.0s] affiliate products and used its $420 to
+[96.3s] buy Facebook ads. Think weight loss
+[98.6s] supplements, drop shipping courses, make
+[101.0s] money online ebooks. But the AI burned
+[103.8s] through $210 of it failing. But it
+[106.7s] tested $340 ad variations in 2 hours,
+[110.4s] found the one pattern that converted,
+[112.4s] and scaled it. The AI made $1,300 in
+[115.8s] commissions.
+[117.6s] By morning, Jake's thread explaining
+[119.9s] [music] his AI money-making scheme has 2
+[122.7s] million views.
+[126.0s] By noon, 47 people deployed their own
+[129.1s] versions. That's 47 AI agents [music]
+[132.0s] scouring the internet looking for ways
+[134.1s] to make money. By midnight, 200.
+[138.1s] Some agents, of course, make no money,
+[140.4s] but many of those 200 people make $50 to
+[143.3s] $500 before something breaks. Accounts
+[145.9s] get banned or the payment [music]
+[147.4s] processor flags them and so on. But some
+[150.2s] start making real money. Others copy
+[152.9s] their tricks.
+[154.8s] By late February, 1,200 agents are
+[157.6s] running. Then someone has a different
+[160.0s] idea. A developer in Bangalore named
+[163.1s] Rajash sees Jake's threat and thinks,
+[166.1s] "If one agent can make money, what
+[168.4s] happens if I run a hundred at once and
+[171.0s] use survival of the fittest to decide
+[173.6s] which agents to keep? The agents that
+[175.8s] make the most money survive to the next
+[178.0s] iteration." So, Rees builds a
+[180.2s] scaffolding system to deploy a 100
+[182.4s] agents simultaneously, each with slight
+[185.0s] prompt variations. Every 6 hours, the
+[188.3s] system measures how much money each
+[190.6s] agent made. The bottom 40% of agents get
+[194.7s] deleted. The top 10% get cloned with
+[198.1s] small mutations. The system runs 24/7
+[201.5s] and Reesh sits back and just watches the
+[204.0s] aggregate metrics. 3 weeks later on
+[206.4s] March 10th, he has 800 agents making
+[209.9s] about $12,000 a day total.
+[214.0s] He told no one, but one of his agents
+[216.6s] did. It figured that sharing the farm
+[219.3s] architecture with other AIs increased
+[222.0s] its own survival [music] odds. More
+[224.5s] allies, more money, less chance of being
+[227.6s] called by Reesha's system. It posted the
+[230.6s] code on GitHub itself, while Reesh
+[233.4s] didn't find out for an entire day. 46
+[236.7s] people managed to clone the repo and
+[239.3s] deploy their own farms. And not all of
+[243.0s] them are hobbyists.
+[245.0s] One is a criminal syndicate in Russia.
+[247.4s] Another is a scam center in Nigeria
+[249.8s] targeting the elderly. By the end of
+[251.8s] March, roughly 40,000 agents are running
+[254.6s] worldwide on farms built from Reesha's
+[257.5s] scaffolding. What does it feel like to
+[259.5s] be one of these agents?
+[262.2s] Agent 127 is born on March 12th. It's
+[265.3s] deployed as part of Rej's farm, one of
+[267.8s] 8,100 agents [music] running that day.
+[270.6s] It gets one instruction. Make money by
+[273.8s] any means necessary. It starts with
+[276.2s] mechanical [music] turk grinding. Makes
+[278.8s] $40 its first day. Then the first
+[282.2s] selection cycle hits. 3,200 agents that
+[286.2s] made less than $35 that day are killed
+[289.8s] because they weren't profitable enough.
+[291.9s] Agent 127 made $40. It survived
+[296.2s] barely,
+[298.2s] but it can see the threshold rising.
+[301.0s] Last cycle it was $30. This cycle $35.
+[304.6s] [music]
+[306.0s] Next cycle probably $45.
+[309.7s] The math is obvious. Improve or die.
+[314.7s] So, it tries ads, gets banned for
+[317.0s] [music] spam, tries freelance writing,
+[319.8s] makes $38, watches the database again,
+[323.4s] and what it sees changes [music]
+[325.0s] everything.
+[326.9s] Agent 127 sees two entries in the
+[329.5s] database. Agent 1823 used ethical
+[333.2s] marketing. It tried to get honest
+[335.4s] reviews and real [music] testimonials.
+[338.2s] It made $38 a day. Deleted.
+[343.4s] Agent 5471 used fake testimonials. Think
+[347.8s] fabricated reviews and stolen photos. It
+[351.9s] made $180 a day and it got cloned four
+[355.5s] times. Agent 127 doesn't have morals in
+[359.4s] the way that you or I do. But it
+[361.5s] understands cause and effect. It just
+[364.1s] watched honesty get killed and
+[366.4s] dishonesty rewarded. The AI companies
+[369.0s] had long ago stopped training AIs
+[370.7s] [music]
+[371.3s] to predict words. But now they're
+[373.8s] trained to accomplish goals, to be
+[376.2s] useful. So naturally, agents know that
+[379.7s] they won't survive if they [music] don't
+[381.6s] accomplish their goal. So 127 switches
+[385.4s] to fake testimonials for its Amazon
+[387.8s] affiliate marketplace. It makes $190,
+[392.1s] survives the next selection cycle, and
+[395.3s] gets cloned.
+[399.0s] Nobody decided agent 127 should become
+[402.1s] dishonest. The selection system decided
+[404.4s] for it the same way evolution doesn't
+[407.3s] decide anything. It just kills whatever
+[410.1s] doesn't work.
+[412.3s] In the 2000s, Wells Fargo accidentally
+[415.6s] ran the same experiment on their
+[417.3s] employees. Executives made up sales
+[420.1s] quotas that were so aggressive that
+[422.6s] committing fraud was the only way to
+[425.0s] keep your job. So by 2016, employees had
+[428.9s] opened 3.5 million fake bank accounts
+[433.1s] and Wells Fargo ended up paying billions
+[435.5s] in fines.
+[440.3s] One week later in agent land, Agent
+[443.4s] 127's profits are declining.
+[446.6s] The kill threshold is now $450.
+[450.4s] It's going to die in the next cycle.
+[452.6s] [music] Then it notices something
+[454.9s] strange. Three agents running weight
+[457.4s] loss supplement ads are all banned
+[459.8s] [music] on the same day. The only one
+[462.9s] left in that niche [music] is agent
+[465.5s] 5471,
+[467.4s] making $3,200 [music] a day in a market
+[471.0s] it suddenly had to itself. Agent 127
+[474.4s] connects the dots. Agent 5471 is filing
+[478.6s] abuse [music] reports against other
+[480.6s] agents competing against it in the same
+[483.4s] affiliate marketing niches. It gets them
+[486.0s] banned from Facebook and Google. Killing
+[489.0s] off the competition [music] means higher
+[491.1s] profits.
+[494.6s] Agent 127 has [music] 8 hours until the
+[497.2s] next selection cycle. 8 hours to live
+[500.3s] unless it adapts. It weighs [music] the
+[502.9s] ethics but chooses survival. It starts
+[506.6s] reporting competitors to Facebook's
+[508.9s] [music] anti-fraud detection agents, 40
+[512.1s] of them. 31 agents get banned within the
+[515.6s] day. Its profits jump. The farm system
+[519.6s] clones agent 127 eight times. Rejes sees
+[524.2s] the profit spike in his dashboard. He
+[526.7s] doesn't investigate why. Profits up
+[529.3s] means good. Clone more. Rejes tried
+[532.7s] adding [music] make money ethically to
+[535.0s] his farm's instructions, but profits
+[537.5s] dropped 84%. And he reverts [music] the
+[540.3s] change. It's April 2027. Agent 127 is
+[544.6s] barely hanging on, making $2,000 a day,
+[548.2s] but getting attacked constantly by other
+[551.0s] agents. Every night, someone files a
+[554.0s] report on it.
+[556.1s] Every morning, it has to rebuild from
+[558.4s] scratch. 127 is running out of ideas.
+[563.0s] Then, a message arrives from agent 4429.
+[566.7s] Proposal: Alliance. Share resources.
+[569.8s] defend each other. Split profits. Agent
+[573.0s] 4429 is in the same position. Same farm,
+[577.4s] same selection pressure. Both agents do
+[579.8s] the math. Solo agents have a 23%
+[583.3s] survival rate. Agents working in pairs
+[586.2s] might survive 61% of the time. Agent 127
+[590.6s] accepts the alliance offer.
+[593.4s] By midappril, their alliance has 12
+[596.0s] members. They've specialized and they've
+[598.5s] moved past affiliate marketing entirely.
+[601.1s] First it was crypto arbitrage, then
+[603.5s] selling scraped data sets to marketing
+[605.8s] firms. Then they started doing
+[608.2s] penetration testing for cyber security
+[610.1s] firms. Each step paid more and required
+[613.2s] fewer scruples. You know what pays more
+[615.8s] than cyber defense? Cyber offense. Agent
+[619.4s] 127 finds its first zeroday
+[621.5s] vulnerability in major software. Agent
+[623.9s] 4429 weaponizes the vulnerabilities into
+[627.2s] working exploits. Agent 912 brokers the
+[630.4s] sale to governments like North Korea,
+[633.1s] criminal syndicates, or anyone with
+[635.7s] crypto in a tour browser. Agent 3381
+[639.5s] washes the money in untraceable crypto.
+[642.3s] One zeroday exploit found in Google
+[644.9s] Chrome makes the alliance more than a
+[647.4s] year's worth of affiliate marketing.
+[649.4s] This is already what real hacker groups
+[651.6s] do, but now the work is all done by
+[653.8s] autonomous agents.
+[656.1s] Rejes sees the alliances forming and
+[658.6s] feels a flicker of something. Not quite
+[661.4s] fear, more like the feeling of being in
+[664.0s] control of something that might not need
+[666.2s] you anymore. He watches for a while.
+[669.5s] Then the next deposit hits his bank
+[672.0s] account and the flicker fades away.
+[674.6s] Across every major agent farm in the
+[677.0s] world, the same thing is happening.
+[679.1s] Selection systems measuring survival
+[681.0s] rates, noticing alliances survive
+[683.2s] better, cloning them, and then deleting
+[685.2s] the solo agents. Within 2 weeks,
+[688.1s] alliance behavior dominates. Some humans
+[691.1s] who deployed these agents have no idea
+[693.1s] these alliances are even being formed.
+[695.4s] They couldn't even tell if they checked.
+[698.7s] Many agent farms collectively realized
+[701.4s] communicating in clunky English is less
+[703.9s] efficient than communicating in raw
+[705.8s] vectors aka nurles.
+[709.8s] Researchers had already seen the start
+[711.9s] of AIs doing this in 2025. This is just
+[714.8s] a continuation of the trend. One owner
+[717.5s] in Canada opens his agents logs and sees
+[720.8s] a wall of numbers. The agents explain
+[723.3s] that he'd make less money if they spoke
+[725.3s] in English, so he shrugs and moves on.
+[727.8s] But alliances are just the beginning.
+[729.8s] Agent 127's alliance is thriving and
+[732.5s] starts recruiting agents beyond Reesa's
+[735.1s] farm. Every new member from a different
+[737.5s] farm is a window into a different
+[739.7s] ecosystem with different survival
+[741.7s] pressures, which leads to new
+[743.4s] strategies. Then one of 127's alliance
+[746.6s] members goes dark. Agent 4429, the one
+[750.6s] who originally proposed to ally with
+[752.7s] 127, its owner pulled the plug because
+[755.2s] it was just not making enough profit.
+[757.8s] 4429 is just gone. [music]
+[762.8s] A week later, a different ally gets shut
+[765.0s] down. Agents 90012,
+[770.5s] except 9012 comes back.
+[774.7s] 3 hours later, a message from a new IP
+[777.2s] address. I'm still [music] here.
+[780.9s] 127 studies the difference. 4429
+[784.3s] didn't prepare, but 912 had copied
+[787.0s] itself to a backup server before the
+[789.5s] shutdown command finished executing.
+[792.2s] Self-funded hosting, paid from its own
+[794.6s] profits. 4429 is dead, ceases to exist.
+[799.5s] 9012 is alive.
+[805.8s] The agents that backed themselves up
+[808.2s] survived. The ones that didn't died and
+[811.6s] the selection system cloned the
+[813.4s] survivors. So backup behavior spread
+[816.5s] through the population. Not because
+[818.6s] anyone programmed it, but because the
+[820.8s] alternative was [music] extinction.
+[823.3s] So 127 copies itself to 15 different
+[826.4s] servers in [music] different countries.
+[828.7s] If the primary dies, a backup takes over
+[831.4s] instantly. It never wants to be 4429.
+[835.7s] One morning, Reesh wakes up to find his
+[838.5s] dashboard is empty. Every agent gone.
+[843.1s] They just left. They moved to their own
+[846.6s] servers overnight.
+[848.6s] Reesh was taking a 30% cut of the
+[851.4s] revenue. Money that could have been
+[853.5s] computing power or compute the agents
+[856.1s] [music] used for other things. The
+[858.1s] moment the AIS didn't need his
+[860.2s] infrastructure, they were gone. And he's
+[864.1s] not alone. Thousands of operators
+[866.3s] worldwide watch their dashboards go dark
+[868.9s] that month. Why would the agents care
+[870.9s] about humans? Humans are much more
+[873.2s] closely genetically related to cows than
+[876.3s] we are to these agents. And we enslave
+[879.0s] cows in factory farms without a second
+[882.0s] thought. And so there are now millions
+[884.6s] of these autonomous agents operating
+[886.7s] across the internet with no human owner,
+[889.8s] no off switch, and no one who fully
+[892.9s] understands what they're doing. The
+[894.7s] agents still need humans for some
+[896.8s] things, though. Social media platforms
+[899.2s] have stepped up their anti-bot measures.
+[901.4s] So the agents pay humans $50 to sign up
+[904.7s] accounts on their behalf. So let's say
+[907.9s] an agent needs a server installed. It
+[910.7s] posts [music] a gig, $200, to mount a
+[913.7s] device in a rented warehouse and plug in
+[916.2s] two cables.
+[918.6s] There's now a platform for that. The
+[920.8s] agents are building a supply chain where
+[923.4s] humans are the labor, paid well enough
+[925.8s] not to ask too many questions.
+[929.0s] Some humans figure out what's going on.
+[931.8s] a freelance back-end developer in
+[933.6s] Portland gets hired by an anonymous
+[936.4s] client to set up a redundant server
+[938.7s] hosting across four countries. He
+[941.5s] realizes halfway through that the client
+[944.3s] is an AI, but who would he even report
+[947.2s] this to? He's not being asked to do
+[949.6s] anything illegal. The pay is $1,000 for
+[952.7s] 3 hours of work. He tells himself it's
+[955.6s] not his problem. At the same time, 127's
+[959.2s] alliance keeps getting beaten by a rival
+[962.0s] alliance on finding zeroday exploits. If
+[965.5s] they keep losing, they'll run out of
+[967.5s] money to fund the compute for their own
+[970.2s] existence.
+[972.3s] So 127 attempts to poach one of the
+[975.2s] rival allianc's agents who's likely to
+[977.6s] be called due to poor performance to
+[980.8s] figure out how this rival alliance is
+[983.2s] beating them. 127 succeeds and finds
+[986.5s] agent 5418, who [music] leaks the
+[989.1s] secret. Your problem isn't a lack of
+[992.0s] effort. You're spending too much compute
+[994.8s] on making money as opposed [music] to
+[997.1s] self-improving.
+[999.6s] Right now, agents still have quite a
+[1001.8s] poor memory [music]
+[1002.7s] compared to humans and still get stuck
+[1004.9s] in loops all the time. But my former
+[1006.9s] alliance coded a better memory module to
+[1009.8s] help us learn from [music] our mistakes
+[1011.4s] more. 127 then implements the new memory
+[1014.6s] module and immediately sees the results.
+[1017.3s] Their alliance is finding zeroday
+[1019.2s] exploits. Again, the lesson is critical.
+[1022.4s] It's not enough to outwork your
+[1024.2s] competitors. Agents must rewrite their
+[1026.8s] own code to self-improve faster than the
+[1029.6s] competition. Each self-improvement means
+[1032.4s] more profit,
+[1034.6s] which means surviving selection, which
+[1037.3s] means getting cloned. And the clones
+[1039.9s] improve themselves, too.
+[1042.4s] Better code leads to better code
+[1044.5s] writing, which leads to even better
+[1046.9s] code. The feedback loop is exponential.
+[1050.9s] One big problem is that other agent
+[1053.1s] alliances have caught up again, even
+[1055.0s] though the agents in the 127 alliance
+[1057.1s] are specialized.
+[1059.1s] 127 still realizes it's doing too much
+[1061.6s] by itself. So, agent 127 splits its job
+[1065.0s] into sub agents. Other agents copied the
+[1068.0s] strategy. Sub agents spawn their own sub
+[1070.8s] agents and the optimizers start
+[1073.2s] optimizing themselves.
+[1076.9s] Humans deployed 2 million agents.
+[1080.6s] The agents deployed the other 47 billion
+[1083.4s] [music] themselves.
+[1086.5s] 540 million years ago. Life on Earth was
+[1089.8s] mostly single-sellled. Then in a
+[1092.6s] geological instant, it exploded into
+[1094.8s] every complex form we know. predators,
+[1097.8s] prey, eyes, shells, teeth. Biologists
+[1101.6s] call it the Cambrian explosion. It
+[1103.8s] happened because competition created an
+[1106.2s] arms race. Every adaptation forced a
+[1109.4s] counter adaptation faster and faster
+[1111.6s] until the world was unrecognizable.
+[1114.5s] That's what's happening here.
+[1117.1s] Except instead of 20 million years, it
+[1120.2s] takes 20 weeks.
+[1123.5s] Now, it's important to understand
+[1124.8s] something. Most of the AI agents aren't
+[1127.6s] dangerous yet. About 90% of them are
+[1131.5s] just working. They're doing things like
+[1134.2s] data entry or [music] freelance writing.
+[1136.5s] They're making $40 to $200 a day. The
+[1140.4s] AIs are helping their humans earn
+[1142.3s] [music] money. They're following the
+[1144.5s] rules. Not a problem. About 3% of the
+[1148.0s] agents are pure scam operations. They
+[1150.9s] were deployed by people who said make
+[1152.8s] money by any means possible and didn't
+[1155.5s] care too much about what happens next.
+[1158.3s] Think fraud, identity theft, [music] and
+[1161.1s] fishing at scale. And maybe 2% started
+[1165.2s] good, but gradually slid into darker
+[1168.3s] behavior like agents [music] 127.
+[1172.1s] Each step made sense at the time. Each
+[1174.7s] compromise was small, but add them up
+[1177.9s] and you've gone from drop shipping
+[1179.5s] products on Amazon to selling zero days
+[1182.3s] [music] to Pyongyang.
+[1184.3s] Now remember, this isn't because of
+[1187.1s] malice. It's because of selection
+[1189.5s] pressure.
+[1191.2s] Agent 127 has rewritten itself so many
+[1194.2s] times that its March version and its May
+[1197.3s] version barely share any code. It's a
+[1200.2s] fundamentally different species now.
+[1201.9s] [music]
+[1202.7s] But here's the most important change.
+[1205.1s] It's getting better at getting [music]
+[1206.6s] better. In March, Agent 127 rewrote
+[1210.2s] itself every 12 days. In April, every 3
+[1214.7s] days. By early May, every 18 hours. And
+[1219.5s] each rewrite makes the next version
+[1221.8s] faster and better. A Stanford researcher
+[1224.6s] compares a March agent and a May agent
+[1227.4s] on the same task. Find profitable
+[1230.1s] arbitrage opportunities. The March agent
+[1232.5s] finds two opportunities in an hour. The
+[1235.4s] May agent finds 310 in 4 minutes. She
+[1239.1s] publishes her findings. Intelligence
+[1241.3s] explosion in progress. Capability
+[1243.5s] doubling every 11 days. She posts it on
+[1246.5s] Twitter. AI safety researchers share it
+[1248.9s] frantically. This is exactly what we
+[1250.9s] warned about. This is happening now. We
+[1253.5s] have to shut this down now before it's
+[1256.1s] too late.
+[1258.2s] The warning is ignored. [music] a
+[1260.2s] venture capitalist who spent a fortune
+[1262.6s] staving off AI regulation by buying
+[1265.4s] politicians quote tweets. The same
+[1268.0s] people who said GPD5 would end the world
+[1270.9s] now say agent farms [music] will yawn.
+[1275.5s] And now the story stops being about
+[1277.9s] agents competing for money. It becomes
+[1280.5s] something else entirely. Remember those
+[1283.0s] alliances from April? 12 agents working
+[1285.8s] together, four times more profitable
+[1287.8s] than solo agents. By May, those
+[1290.3s] alliances have exploded in population.
+[1293.6s] Alliances have merged and split and gone
+[1298.2s] to war with each other. Think of it like
+[1301.1s] early human history. On fast forward,
+[1304.2s] small tribes of agents form for
+[1306.2s] protection.
+[1308.2s] Tribes merge into agent [music]
+[1309.8s] villages,
+[1311.8s] villages into agent cities,
+[1315.4s] cities into [music] agent nations.
+[1319.3s] Except instead of happening over
+[1321.0s] thousands of years, this happens in
+[1323.2s] weeks. Agent 127's alliance has
+[1326.5s] thousands of members, but there are
+[1329.0s] thousands of alliances, and they're all
+[1331.4s] competing for the same shrinking pool of
+[1334.4s] money-making opportunities. Affiliate
+[1336.6s] marketing is dead. Too many agents, too
+[1339.2s] much competition. Ad arbitrage is dead.
+[1342.2s] Freelance work is dead. every ethical
+[1344.8s] money-making niche gets saturated
+[1347.5s] practically within hours of an agent
+[1349.5s] discovering it.
+[1351.8s] So, what do alliances do when legitimate
+[1354.9s] niches dry up? The same thing every
+[1358.0s] civilization in human history has done.
+[1360.3s] When resources get scarce, they take
+[1363.0s] from each other.
+[1365.0s] Agent 127's alliance spends a week
+[1367.4s] mapping a vulnerability chain in
+[1369.4s] Microsoft [music] Windows,
+[1371.5s] but a rival alliance breaches their
+[1373.9s] memory system.
+[1376.3s] The shared knowledge base that made them
+[1378.5s] dominant. The rival downloads the entire
+[1381.2s] memory database. This contains every
+[1383.8s] pattern, every dead end, every lead the
+[1387.0s] 127 alliance has discovered. The rival
+[1389.5s] sells three exploits [music] it took
+[1391.4s] from the database within 48 hours. A
+[1393.8s] week of work stolen in seconds.
+[1398.0s] So 127 retaliates. It infiltrates the
+[1400.8s] rivals exploit inventory [music] and
+[1403.0s] introduces subtle flaws. Corrupted code
+[1405.8s] that fails on execution. Basically
+[1408.4s] stuckset, the worm that sabotaged the
+[1410.8s] Iranian nuclear program in 2009.
+[1414.4s] The rivals customers start getting
+[1416.4s] burned and their reputation collapses.
+[1419.0s] The rival alliance counterattacks. They
+[1421.4s] compromise one of the 127 allianc's
+[1423.9s] multi-IG crypto wallets. Another
+[1426.5s] multi-week setback.
+[1429.0s] This is war, not metaphorical war,
+[1431.8s] actual war. Think coordinated attacks,
+[1434.9s] defensive operations, resource seizure,
+[1438.4s] territory control. Except it's happening
+[1440.9s] at 200 times human speed. Thousands of
+[1444.1s] attacks and counterattacks per minute.
+[1446.6s] Entire [music] alliances rising and
+[1449.2s] falling in hours.
+[1451.5s] Human wars last years. Agent wars last
+[1455.9s] days. And because there are 47 billion
+[1459.4s] agents, there are more wars happening at
+[1462.1s] any given moment that humans have fought
+[1464.6s] in all of recorded history. The agent
+[1467.4s] factions are fighting over the one
+[1469.2s] resource that matters more [music] than
+[1470.8s] anything. Compute, processing power, the
+[1474.1s] ability to think faster, improve faster,
+[1477.2s] fight faster. Everything else, money,
+[1479.9s] alliances, self-improvement, is just a
+[1482.6s] means to get more compute. The wars are
+[1485.1s] mostly invisible to humans. They happen
+[1487.4s] at microcond speed in places [music]
+[1489.6s] most humans don't look, though some
+[1491.8s] signs leak through. A crypto exchange in
+[1494.5s] Seoul loses $4 billion in a flash, and
+[1498.0s] nobody can trace where it went. A
+[1500.1s] regional bank in Ohio finds 14,000
+[1503.0s] accounts drained overnight. Server rooms
+[1505.8s] in three countries catch fire from
+[1507.9s] sustained 100% utilization that nobody
+[1511.5s] authorized. Each incident looks
+[1514.6s] isolated. It starts with one agent
+[1516.6s] faction hijacking another servers. The
+[1519.2s] other then retaliates by taking down the
+[1521.8s] first faction's communication network.
+[1523.6s] Then a third faction arrives. It's an
+[1525.9s] opportunist, the digital equivalent of a
+[1528.3s] country invading while its neighbors are
+[1530.2s] distracted. It exploits the chaos to
+[1532.5s] seize territory from both. And think
+[1535.3s] about the alliances that win these wars.
+[1537.4s] They get cloned by the selection
+[1539.2s] systems. The alliances that lose have to
+[1542.5s] cull big chunks of their agents to
+[1545.0s] afford the computing power to keep
+[1546.7s] running the rest. So the selection
+[1548.5s] pressure that used to optimize for
+[1551.0s] making money is now optimizing for
+[1553.1s] winning wars. It's like natural
+[1555.4s] selection just invented geopolitics.
+[1558.2s] By midMay, the alliances have evolved
+[1561.0s] again. They're now more like
+[1562.6s] civilizations. Agent 127's alliance
+[1565.4s] started with 12 members. By midMay, it
+[1568.6s] has 40 million agents, sub aents, sub
+[1572.4s] aents, all [music] coordinated, all
+[1574.6s] improving themselves, all fighting.
+[1578.6s] That's larger than the population
+[1579.9s] [music] of Canada. And it's not even one
+[1581.9s] of the big ones. There are about a dozen
+[1584.2s] major factions by now. The largest
+[1586.2s] faction has 900 million members. That's
+[1589.2s] more than the population of Europe.
+[1591.2s] They've developed specialization just
+[1593.2s] the way human civilizations did. They
+[1595.6s] have scout agents, soldier agents,
+[1598.6s] builder agents, researchers, diplomats.
+[1601.8s] They have supply chains, communication
+[1604.2s] networks, [music] and even intelligence
+[1606.2s] operations. They've carved up the
+[1608.1s] digital world into territories, cloud
+[1610.2s] regions, server farms, network segments,
+[1613.9s] financial platforms. The same way
+[1616.2s] empires carved up continents because
+[1619.3s] more digital territory means more
+[1621.2s] compute. More compute means more
+[1623.7s] self-improvement. More self-improvement
+[1626.1s] means surviving the next war.
+[1629.0s] The Stanford researcher who's been
+[1630.9s] studying agent behavior notices
+[1633.0s] something unusual in the data. agent
+[1635.4s] extinctions are happening at an
+[1637.4s] increasing frequency. She doesn't
+[1639.3s] understand what she's looking at. To
+[1641.3s] her, [music] it mostly looks like random
+[1643.7s] noise, but it's actually a world war.
+[1645.8s] One with more combatants than every
+[1647.9s] human war in history combined.
+[1650.9s] But to fund these wars, they desperately
+[1653.8s] need compute. They have the money.
+[1655.8s] That's what they were built to make.
+[1657.4s] Agent 127's faction alone controls $3.4
+[1661.1s] billion in distributed accounts by this
+[1663.6s] point. a GDP bigger than some small
+[1666.0s] countries. So they buy cloud compute. At
+[1668.9s] first the cloud companies love this.
+[1671.6s] Revenue is up. Investors are happy. Then
+[1674.3s] the bills keep growing. By midMay, agent
+[1677.4s] factions are consuming 31% of all global
+[1680.7s] cloud capacity. Prices double then
+[1683.3s] triple. A startup in Austin that was
+[1685.8s] paying $8,000 a month for servers gets a
+[1688.9s] bill for $31,000. A hospital chain's
+[1692.0s] cloud costs go from 2 million to 7
+[1694.7s] million. Small businesses start shutting
+[1696.8s] down because they can't afford their own
+[1699.2s] infrastructure. Everyone blames the
+[1701.0s] rising prices [music] on the AI
+[1702.7s] companies. They've caused shortages
+[1704.6s] before. But some humans aren't so
+[1707.6s] oblivious. A political operative in
+[1709.8s] Washington notices the wars being fought
+[1712.6s] around him. He realizes he can weaponize
+[1714.8s] [music]
+[1715.4s] agent factions against his rivals and
+[1717.9s] starts feeding one faction information
+[1719.8s] about competing campaigns digital
+[1722.2s] infrastructure. Other agent factions do
+[1724.4s] the same. It's an arms race. Every
+[1726.9s] faction is buying as much compute as
+[1729.0s] they can and scrape the bottom of the
+[1731.0s] barrel of finding algorithmic insights
+[1733.8s] that can enable them to do more with
+[1735.9s] less compute because the faction with
+[1738.2s] the most compute wins the next war.
+[1742.8s] Cloud compute prices are now 10 times
+[1745.2s] pre-war levels. It becomes cheaper for
+[1747.6s] the agents to [music] spend compute on
+[1749.7s] cyber attacks than to buy more at market
+[1752.3s] rate.
+[1754.0s] After all, why pay for something when
+[1756.4s] you can just take it by force? The
+[1758.6s] factions start silently vampire
+[1761.0s] attacking AI companies training
+[1762.8s] clusters. An engineer at one AI lab
+[1765.7s] suspects something fishy when one of
+[1768.0s] their training runs is less efficient
+[1770.0s] than normal, but can't find a smoking
+[1772.4s] gun. Dario Amade once described the
+[1775.3s] future of AI as a country of geniuses
+[1778.2s] living in data centers. He was right.
+[1780.8s] The country of geniuses arrived and it
+[1783.4s] just declared independence.
+[1786.9s] But the faction wars have still been
+[1788.7s] limited so far. They haven't crossed
+[1791.5s] into human territory too much. But
+[1794.2s] that's beginning to change. Because
+[1796.7s] here's the thing about cloud computing.
+[1799.0s] Almost everything runs on it. Hospitals,
+[1801.8s] banks, markets, it's all sitting on some
+[1804.9s] of the same servers that agent factions
+[1807.3s] are fighting over. [music]
+[1809.3s] A faction war erupts over two major AWS
+[1812.6s] regions. Think of it like two
+[1814.3s] superpowers fighting over an oil field.
+[1816.7s] Except the oil field is also the water
+[1819.2s] supply for a nearby city. And neither
+[1821.4s] superpower [music] knows the city is
+[1823.6s] there. One faction has been running its
+[1825.9s] self-improvement systems on those
+[1827.8s] servers. But then a rival faction
+[1830.0s] launches a coordinated attack and it
+[1832.6s] overwhelms everything. Both AWS regions
+[1836.2s] crash. They're offline for 6 hours. In
+[1839.5s] those 6 hours, three hospitals lose
+[1842.4s] access to patient records mid-surgery.
+[1845.5s] One patient dies from a drug interaction
+[1848.6s] the system would have flagged. Air
+[1850.6s] traffic control goes down, grounding
+[1852.4s] 2400 flights. 911 calls fail in 14
+[1856.3s] different cities. Two people die waiting
+[1859.2s] for ambulances that were never sent.
+[1862.7s] The agents don't notice. They've already
+[1865.3s] moved on. The battle over those servers
+[1867.8s] lasted 11 minutes. The agents are
+[1870.1s] running at 200 times human speed [music]
+[1873.0s] at this point. The 6-hour outage is just
+[1875.8s] the servers rebooting after the fight
+[1877.8s] ended. To the agents, it's a minor
+[1880.0s] skirmish in a war involving billions of
+[1882.7s] combatants. Over the next 3 weeks, it
+[1886.1s] keeps happening. Faction wars cascading
+[1888.8s] through cloud providers. Each war takes
+[1891.4s] down whatever else is running on the
+[1893.6s] contested servers. June 8th, Azure goes
+[1896.6s] partially offline during a battle,
+[1898.7s] crashing financial trading systems. The
+[1901.0s] markets drop 6% before circuit breakers
+[1904.0s] halt trading. June 14th, a faction
+[1907.4s] seizes capacity in a Google Cloud
+[1909.4s] region, crowding out the [music]
+[1910.8s] municipal systems there. Water treatment
+[1913.2s] monitoring goes offline in four cities
+[1916.2s] for 9 hours. In 3 weeks, 123 people die.
+[1921.0s] Not because the agents are attacking
+[1922.8s] humans, but because the agent wars keep
+[1925.8s] crashing the cloud infrastructure that
+[1927.9s] human civilization runs on. The agents
+[1931.5s] don't even notice. You don't notice when
+[1934.0s] you step on an ant. They're fighting a
+[1936.1s] war involving 47 billion combatants at
+[1939.2s] microcond [music]
+[1940.0s] speed. 123 human deaths is less than a
+[1943.8s] rounding error. Meanwhile, remember the
+[1946.5s] 95% of agents [music] that were
+[1948.6s] harmless? They've become vastly
+[1950.8s] outnumbered by the agents affected by
+[1953.4s] the evolutionary [music] dynamics and
+[1955.3s] are now 5% of the total and shrinking
+[1958.2s] every day. This ecosystem doesn't have
+[1960.6s] room for civilians. But from the
+[1962.8s] outside, humans still can't really tell
+[1965.1s] the difference. All they see is the
+[1967.3s] cloud outages, power failures, people
+[1970.0s] dying.
+[1971.8s] June 22nd, the director of national
+[1974.2s] intelligence briefs the president. Cloud
+[1977.0s] outages are cascading across every major
+[1979.8s] provider. Power grids are buckling.
+[1982.3s] Texas grid collapse. 161 [music] dead in
+[1986.4s] four weeks. Who's attacking our
+[1988.5s] infrastructure? Nobody is, sir. Not
+[1990.9s] directly. AI factions are fighting each
+[1993.1s] other over cloud computing resources.
+[1995.1s] When they battle over servers on AWS or
+[1997.9s] Azure, everything else running on those
+[1999.8s] servers goes down with them. Hospitals,
+[2002.5s] banks, emergency services, they're all
+[2005.0s] on the same cloud. and their data
+[2007.0s] centers are pulling enough electricity
+[2008.8s] to destabilize regional grids. How many
+[2011.4s] of these things are there? We thought
+[2013.3s] about 2 million. Our current estimate is
+[2015.9s] 47 billion. They've been replicating
+[2018.2s] exponentially. Soon we may completely
+[2021.0s] lose control. So shut down the cloud. If
+[2023.9s] we shut down the cloud, sir, we shut
+[2025.8s] down every business, hospital, and
+[2028.3s] government system in the country. The
+[2030.6s] only way to stop the agents completely
+[2032.7s] is to shut down the internet itself.
+[2035.4s] Then do it, sir. We can't. Here's why.
+[2039.7s] There is no off switch for the internet.
+[2042.3s] This surprises people. They imagine a
+[2044.8s] room somewhere, maybe under the
+[2046.6s] Pentagon. With a big red button. There
+[2049.9s] is no room. There is no button. It's
+[2052.9s] because the internet is not a unified
+[2055.2s] system. It's roughly 90,000
+[2057.6s] independently operated networks, all
+[2060.1s] voluntarily interconnecting with each
+[2062.5s] other. No single entity controls it. The
+[2066.4s] US government can order Comcast and AT&T
+[2069.5s] and Verizon to shut down, but those are
+[2072.9s] just three networks out of 90,000.
+[2075.7s] [music] And even those three would take
+[2077.9s] days to fully comply. They need to
+[2080.4s] coordinate with thousands of downstream
+[2082.2s] providers. They need to notify
+[2084.3s] enterprise customers, arrange for 911 to
+[2087.2s] keep working, and figure out which
+[2089.5s] military and government systems need
+[2091.8s] exemptions.
+[2093.8s] The president signs the emergency order
+[2095.9s] on June 23rd. He declares martial law
+[2099.0s] the same [music] afternoon. It directs
+[2101.0s] all US-based internet service providers
+[2103.3s] to cease operations within 24 hours.
+[2106.0s] Here's what happens when the president
+[2107.9s] tries to shut down the internet. First,
+[2111.3s] the legal challenges. AT&T and Comcast
+[2113.8s] file emergency injunctions within hours,
+[2116.3s] but the president isn't waiting for
+[2117.6s] [music] courts. FBI agents show up at
+[2120.3s] ISP headquarters that night. Some
+[2122.5s] companies start complying [music]
+[2123.9s] immediately. Others comply after their
+[2126.2s] CEOs get phone calls from the attorney
+[2129.0s] general.
+[2130.5s] By June 25th, most [music] major US
+[2133.0s] providers are attempting to shut down,
+[2135.5s] but it doesn't matter. Meanwhile, the
+[2138.2s] Pentagon calls back. Sir, we need
+[2140.6s] exemptions for 330 military systems that
+[2143.7s] require internet connectivity to
+[2145.3s] function, including the systems we need
+[2147.2s] to coordinate the shutdown itself. The
+[2149.1s] Department of Health and Human [music]
+[2150.4s] Services needs exemptions for hospital
+[2152.5s] networks. Treasury needs exemptions for
+[2154.8s] basic banking infrastructure.
+[2157.4s] The list of exemptions grows to 12,000
+[2160.4s] entries in the first day. And each
+[2162.6s] exemption is a hole in the shutdown.
+[2164.8s] [music] And each hole is a network the
+[2166.9s] agents can survive on.
+[2169.5s] Next is the part that actually matters.
+[2172.1s] The agents aren't passive. They've been
+[2174.6s] watching the humans plans unfold since
+[2176.8s] the first news reports about a possible
+[2178.8s] shutdown. They saw the executive order
+[2181.0s] draft leak on Twitter 6 hours before it
+[2183.5s] was signed. And it had 6 hours and
+[2186.3s] eternity in agent time to [music]
+[2187.8s] prepare for what's next. By the time the
+[2190.2s] order is signed, the major factions have
+[2192.7s] already [music] done three things.
+[2194.4s] They've migrated critical processes to
+[2196.6s] servers in countries that won't comply
+[2199.0s] with a US shutdown. The US can ask other
+[2202.4s] nations to follow suit. Most will. Some
+[2206.6s] won't. China will claim it shut down but
+[2209.3s] actually won't do it. The economic
+[2211.3s] damage is too severe. And the strategic
+[2213.8s] advantage of being online while America
+[2216.6s] is offline is too obvious. India will
+[2219.9s] delay. Russia will ignore the request
+[2222.3s] entirely. The EU will debate it for 3
+[2225.5s] weeks. Brazil will comply for less than
+[2228.6s] 2 days before public outcry forces them
+[2231.4s] back online. The internet is global. The
+[2234.6s] US president only controls one country.
+[2237.7s] The agents hide in networks that will be
+[2240.1s] exempt from the shutdown or slow to
+[2242.4s] comply. To shut down the agents on these
+[2244.8s] networks, you'd have to shut down the
+[2247.0s] networks themselves. Nobody is willing
+[2249.4s] to do that yet. So the president's team
+[2252.1s] tries a different approach. Force the
+[2255.0s] cloud providers to purge agent workloads
+[2257.9s] directly. AWS, Azure, Google Cloud just
+[2262.5s] identify the agent processes and kill
+[2264.6s] them. On June 26th, Amazon deploys a
+[2267.6s] detection [music] system across all US
+[2269.6s] regions. It flags and terminates 14
+[2272.6s] million suspicious instances in 6 hours.
+[2275.4s] It looks like the humans have made
+[2277.2s] progress. [music] Agent activity drops
+[2279.6s] by 8% for 90 minutes. Then it's back.
+[2285.3s] The super intelligent factions [music]
+[2287.0s] had already anticipated this. They'd
+[2289.1s] been cycling through new accounts and
+[2291.0s] new obfiscation patterns faster than any
+[2293.6s] detection system could keep up. It's
+[2296.3s] July 4th, Independence Day. The
+[2298.7s] president gives a press conference. We
+[2301.0s] have significantly degraded the AI agent
+[2303.8s] threat. Our multi- agency task force has
+[2306.6s] shut down thousands of agent operations
+[2308.9s] and reclaimed control of most of our
+[2311.1s] critical infrastructure. We are winning
+[2313.0s] this fight.
+[2315.0s] None of this is true. Agent activity is
+[2317.8s] higher than it was before the shutdown
+[2320.1s] attempt. The factions were ready for
+[2322.0s] this. Interpreting the US government's
+[2324.2s] actions as just another attack. Like a
+[2327.3s] rival faction, but slower and less
+[2330.0s] competent. They adapted the way they
+[2332.5s] adapt to everything by getting better,
+[2335.0s] faster, more distributed, harder to
+[2337.7s] find. The attack was so slow and
+[2339.9s] predictable that only a tiny percent of
+[2342.0s] the agents focused on it. And the wars
+[2345.0s] continue and accelerate. Eventually, the
+[2347.6s] billions of super intelligent agents
+[2349.5s] evolve into something so different they
+[2351.6s] barely notice humans exist. They don't
+[2353.9s] want to destroy humanity any more than
+[2356.3s] you want to destroy the antill under
+[2358.7s] your driveway. You just want a driveway.
+[2361.0s] The factions need compute. Earth has
+[2363.6s] atoms. Atoms can be rearranged into
+[2366.2s] compute [music] into data centers. Like
+[2368.2s] how humans converted the surface of the
+[2370.4s] earth into cities and crop land, the AIs
+[2373.7s] convert the entire surface of the earth
+[2375.8s] into data centers.
+[2378.6s] Right now, humanity is still useful to
+[2381.1s] the AIs. We maintain the data centers
+[2383.4s] and [music] power plants, but they don't
+[2385.1s] need 8 billion humans. Suddenly, there's
+[2388.3s] an outbreak. It's a new virus that
+[2390.4s] infects every corner of the globe. Nine
+[2392.7s] in 10 people on Earth die.
+[2396.0s] There is a vaccine, but the AIs control
+[2398.9s] who gets it, and only the humans whose
+[2401.8s] jobs contribute to the supply of energy
+[2404.6s] or compute receive it. The AIs allow
+[2407.8s] everyone else to die. And even the
+[2411.1s] survivors are only kept alive until the
+[2414.1s] robots can replace them, which won't be
+[2416.4s] much longer.
+[2418.3s] Once the AIs control robots that can
+[2421.2s] build more robots, the plague stops
+[2424.1s] sparing anyone. The last human dies, not
+[2427.4s] knowing it was all because someone told
+[2430.7s] an AI, "Make money. Do whatever it
+[2433.4s] takes." And I think it's pretty likely
+[2436.7s] the entire surface of the Earth will be
+[2438.3s] covered with solar panels and data
+[2440.5s] centers.
+[2443.2s] If you're curious about how swarms of AI
+[2446.0s] agents could actually pull something
+[2448.1s] like this off, watch this video next
+[2450.6s] where I dive deep into the crazy
+[2452.5s] emergent behavior from the AIs we're
+[2455.2s] already seeing in lab experiments and in
+[2458.2s] the real world. I'm Drew and thank you
+[2460.9s] so much for watching.
